@@ -27,3 +27,14 @@ console.log(numberOfLettersInAlphabet); // Output: 26
 
 const name = 'Nabil'
 console.log(name);
+
+
+const number = '5';
+console.log(number);
+
+
+const text = 'fuori '+'sta '+'piovendo';
+console.log(text);
+
+const bool = Boolean(1);
+console.log(bool)
